@@ -1,0 +1,1 @@
+This Projec Aims TO improve the security of the systems by identifying vulnerabilities even before the website or the system is deployed for use. It scans any abnormally for logins, SQL injenction, XSS, Database bleeding Zero day Vulnerabilities and many more. You are to modify and do controlled exploitation
